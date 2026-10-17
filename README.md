@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Macmac 👋
 
-<!--
-**macmac-12/macmac-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+- 🏫 Student at Camarines Sur Polytechnic Colleges (CSPC)
+- 💻 Interested in Python, Web Development, QR Systems, Machine Learning, and Artificial Intelligence
+- 🌱 Currently learning all things to be learned.
+- 📫 Reach me at: marana@my.cspc.edu.ph
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=macmac-12&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=macmac-12&layout=compact&theme=tokyonight)
+
+## 📌 Featured Projects
+- **MaScan-Attendance-Checker** – QR-based attendance tracking system
+- **cccs106-projects** – Course projects collection
+- **e-portfolio** – My personal portfolio site
