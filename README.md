@@ -125,7 +125,7 @@ currently_learning:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-marame%40my.cspc.edu.ph-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marame@my.cspc.edu.ph)
+[![Email](https://img.shields.io/badge/Email-marana%40my.cspc.edu.ph-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marana@my.cspc.edu.ph)
 [![GitHub](https://img.shields.io/badge/GitHub-macmac--12-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/macmac-12)
 <!-- Add more links below as needed -->
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link) -->
