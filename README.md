@@ -101,26 +101,6 @@ currently_learning:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=macmac-12&theme=darkhub&no-frame=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/macmac-12/macmac-12/output/github-snake-dark.svg)
-
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
